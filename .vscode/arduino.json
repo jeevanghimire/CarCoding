@@ -1,0 +1,7 @@
+{
+    "port": "COM8",
+    "board": "arduino:avr:nano",
+    "sketch": "Reciver\\Reciver.ino",
+    "configuration": "cpu=atmega328old",
+    "programmer": "arduino:arduinoisp"
+}

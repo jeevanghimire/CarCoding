@@ -1,0 +1,21 @@
+X: 0.71  Y: -1.73  Z: 8.08 // no command
+
+X: 1.06  Y: -10.71  Z: -2.82 //left
+
+ X: 0.82  Y: 7.69  Z: 3.96   // right
+
+X: -9.69  Y: -2.16  Z: -0.12 //forward
+
+X: 10.43  Y: -0.90  Z: 1.06 //Backward
+
+//Differnce for forward and stationary
+X :-10.4  Y: 0.43 Z: -8.2
+
+//Differnce for backward and stationary
+X: 9.72 Y: 0.83  Z: -7.02
+
+//Differnce for left and stationary
+X: 0.35 Y: -8.98  Z: -10.90
+
+//Differnce for right and stationary
+X: 0.11 Y: 9.42  Z: -4.12
