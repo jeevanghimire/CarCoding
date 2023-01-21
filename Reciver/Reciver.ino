@@ -3,7 +3,7 @@
 #include <Wire.h>
 
 #define m1 2
-#define m2 3
+#define m2 3 
 #define m3 4
 #define m4 5
 
